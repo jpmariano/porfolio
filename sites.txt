@@ -1,0 +1,93 @@
+WEBSITES (Note: Some links might not work – I can provide an screenshot image of the site if requested)
+• E-commerce:
+o http://store.prosperitypac.com/
+o http://store.gregabbott.com/
+o http://store.nrsc.org/
+• Political:
+o http://www.defeatdavis.com/
+o http://www.joniforiowa.com
+o http://www.byrneforcongress.com/
+o http://www.heck4nevada.com/
+o http://www.mnactionnetwork.org/
+• Fundraising
+o https://contribute.johnboehner.com
+o https://secure.billschuette.com
+o https://action.votewillforcongress.com
+o https://support.duffyforcongress.com
+o https://contribute.hustedforohio.com
+o https://www.minnesotaactiondonate.org
+o https://contribute.johnboehner.com
+o https://contribute.rpof.org
+o https://contribute.teamboehner.com
+o https://contribute.nrsc.org
+o https://contribute.tomcotton.com
+o https://contribute.sullivan2014.com/
+o https://contribute.thomtillis.com
+• Petition Sites
+o http://www.grimesforobama.com/
+o http://www.ncfortillis.com/
+o http://www.standforarkansas.com/
+o http://www.standforcolorado.com/
+o http://www.standforlouisiana.com/
+o http://www.standfornorthcarolina.com/
+o http://join.susanamartinez.com/
+o http://join.stapletonforcolorado.com/
+o https://www.minnesotaactiondonate.org
+o http://www.rickpac.org
+o https://join.charlesboustany.com
+o http://www.coconsumersforchoice.com/
+o http://join.johnboehner.com/
+o http://join.hustedforohio.com/
+o http://www.defeatalexsink.com/
+o http://yourvoice.nrsc.org/
+o http://action.commonsensecontract.com/
+o http://join.teamboehner.com/
+o http://www.fieldvisionllc.com/
+o http://signup.ronpaulchannel.com/
+• Wordpress Multisite (Elecction 2014 – Screenshots available)
+o https://candidates.nrsc.org/
+https://www.alexanderandconservatives.com
+o https://www.allenwehandconservatives.com/
+o https://www.bensasseandconservatives.com
+o https://www.billcassidyandconservatives.com
+o https://www.corygardnerandconservatives.com
+o https://www.dansullivanandconservatives.com
+o https://www.davidperdueandconservatives.com
+o https://www.edgillespieandconservatives.com
+o https://www.jameslankfordandconservatives.com
+o https://www.jamesrischandconservatives.com
+o https://www.jeffsessionsandconservatives.com
+o https://www.jimoberweisandconservatives.com
+o https://www.johncornynandconservatives.com
+o https://www.joniernstandconservatives.com
+o https://www.lindseygrahamandconservatives.com
+o https://www.lynnlandandconservatives.com/
+o https://www.mikeenziandconservatives.com
+o https://www.mitchmcconnellandconservatives.com
+o https://www.monicawehbyandconservatives.com
+o https://www.moorecapitoandconservatives.com
+o https://www.moorecapitoandconservatives.com
+o https://www.scottbrownandconservatives.com
+o https://www.stevedainesandconservatives.com
+o https://www.stevedainesandconservatives.com
+o https://www.thomtillisandconservatives.com
+o https://www.tomcottonandconservatives.com
+• Fitness
+o http://www.t180fitness.com/
+o http://t180fitness.staging.wpengine.com/ (Staging Environment)
+• University
+o https://www2.howard.edu (Backend)
+• Drupal 7 Multisite (University Administrative Sites)
+o http://huadminunitsdev.prod.acquia-sites.com/ (Root Install)
+o http://adminunitsertogwbzo8.devcloud.acquia-sites.com/ (Testing Environment)
+o and other sites that can fit in their admin use case
+• Drupal 6
+o http://www.stdfasttest.com
+• Miscellaneous
+o http://www.rgvo.com
+o http://www.funcutsrgv.com
+o http://www.kidsrockacademy.com
+o https://www.gorditasdonatere.com
+o http://www.business-testimonial.com
+o http://www.elite-pay.com
+o http://www.msihawaii.com
